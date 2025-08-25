@@ -1,5 +1,7 @@
 # Taxi Fare Prediction Using Linear Regression
 
+# App Link:** 'https://predicting-taxi-fare-from-distance-iqyjshqvjztz68znu9gvyn.streamlit.app/'
+
 ## Overview
 
 This project aims to predict taxi fares in a city using a simple linear regression model. By analyzing the relationship between trip distance and fare, we can estimate the cost of a ride and uncover the existence of a base fare (fixed starting charge). This solution is useful for both passengers and taxi operators to ensure transparency and planning.
@@ -62,8 +64,11 @@ The analysis includes a visualization of the data and the regression model:
 - Red line: Regression fit
 - Green dot: Predicted fare for 15 km
 
+## 📸 Screenshot:
+
+**🔹Streamlit App**
+🔹![alt text](Frontend.png)
 
 ## Conclusion
 
 This project demonstrates how linear regression can be used for fare prediction and pricing analysis in urban transport. The approach is easily extendable—adding more features (like time, weather, or traffic) can further improve prediction accuracy and insights.# Predicting-Taxi-Fare-from-Distance
-# Predicting-Taxi-Fare-from-Distance
