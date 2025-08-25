@@ -1,6 +1,6 @@
 # Taxi Fare Prediction Using Linear Regression
 
-# App Link:** 'https://predicting-taxi-fare-from-distance-iqyjshqvjztz68znu9gvyn.streamlit.app/'
+# App Link:https://predicting-taxi-fare-from-distance-iqyjshqvjztz68znu9gvyn.streamlit.app/
 
 ## Overview
 
